@@ -1,0 +1,3 @@
+[submodule "cores/Cores-SweRVolf"]
+	path = cores/Cores-SweRVolf
+	url = https://github.com/computer-modeling-group/Cores-SweRVolf.git
