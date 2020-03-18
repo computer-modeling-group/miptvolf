@@ -4,3 +4,6 @@
 [submodule "riscv-compliance"]
 	path = riscv-compliance
 	url = https://github.com/computer-modeling-group/riscv-compliance.git
+[submodule "spike/riscv-isa-sim"]
+	path = spike/riscv-isa-sim
+	url = https://github.com/computer-modeling-group/riscv-isa-sim.git
